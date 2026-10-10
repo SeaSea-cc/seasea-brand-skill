@@ -1,26 +1,28 @@
 ---
 name: seasea-brand-skill
-description: Apply the canonical Seasea.cc brand system (positioning as the AI-era Accenture/Deloitte intelligence operator, voice, visual identity, bright-blue gradient palette, anti-default rules) when authoring or revising any Seasea-branded artifact — websites, decks, client deliverables, GPT Image 2 prompts, social posts, landing pages, sales collateral, RFP responses, or co-branded materials. Use whenever the user says "design/build/write Seasea …", "Seasea homepage / deck / page / image", "套用 Seasea 品牌", "Seasea consulting deliverable", "make this look like Seasea", or any task that must comply with the Seasea visual system. Seasea is positioned as the AI-native growth operating system — its visual register is consulting-grade, premium-editorial, decision-board calm, with bright cobalt-to-sky blue gradient as the singular accent of intelligence. Never use rainbow gradients, generic SaaS blues, suit-and-tie stock photography, or playful consumer AI tropes.
+description: Apply the Seasea brand system — the AI-native & Forward-Deployed Engineering (FDE) research-institute visual + voice language inside the Musein (目音) main brand — when authoring or revising Seasea-institute artifacts (internal research decks, FDE engineering deliverables, R&D communications, research/engineering recruiting). Seasea is NOT a standalone outward-facing brand; any public-facing Musein artifact must route to `musein-brand`. Use whenever the user says "design/build/write Seasea (institute) …", "Seasea research deck / FDE deliverable / page / image", "套用 Seasea 研究院品牌", "Seasea R&D deck", or any task that must comply with the Seasea institute visual system. Seasea's visual register is research-grade, premium-editorial, decision-board calm, with bright cobalt-to-sky blue gradient as the singular accent of intelligence. Never use rainbow gradients, generic SaaS blues, suit-and-tie stock photography, or playful consumer AI tropes.
 ---
 
 # Seasea Brand Skill (Global)
 
-Author and revise Seasea.cc-branded artifacts with the canonical brand system applied — positioning, voice, visual identity, bright-blue gradient discipline, and anti-default governance — so every output reads like a $250k-engagement consulting deliverable from the AI-era Accenture/Deloitte equivalent.
+Author and revise Seasea-institute artifacts with the canonical brand system applied — positioning, voice, visual identity, bright-blue gradient discipline, and anti-default governance — so every output reads like a research-grade deliverable from the AI-native & FDE research institute inside the Musein (目音) main brand. Seasea is not a standalone external brand; outward-facing work carries the Musein master brand and routes to `musein-brand`.
 
 ## Strategic Frame
 
-**Seasea is the AI-native growth operating system.** It is the AI-era successor to McKinsey / Accenture / Deloitte / BCG: the firm that codifies expert judgment into ontology, permission graph, workflow DAGs, and execution journals — not a SaaS dashboard, not a chatbot, not a prompt library.
+**Seasea is the AI-native & Forward-Deployed Engineering (FDE) research institute inside the Musein (目音) main brand.** It is the applied research and forward-deployed engineering layer that codifies expert judgment into ontology, permission graph, workflow DAGs, and execution journals — powering Musein's commercial creative canvas and the broader Seasea vertical stack — not a SaaS dashboard, not a chatbot, not a prompt library.
+
+Seasea does **not** operate as a standalone outward-facing brand. Every artifact that reaches the public market must carry the **Musein (目音)** master brand; Seasea appears only as an institute-level identity — e.g. *"Seasea — AI-native & FDE Research Institute of Musein"* — on internal research decks, FDE engineering deliverables, and research/engineering recruiting and R&D communications that sit under the Musein umbrella.
 
 The brand must communicate **earned intelligence, decision-grade rigor, and quiet authority** — never hype, never rainbow-AI playfulness, never consumer warmth.
 
 ## When to Use
 
-- User asks to design or write any Seasea.cc surface: website, landing page, pitch deck, sales deck, RFP response, case study, social post, narration script, GPT Image 2 prompt, client deliverable
-- User asks to "apply Seasea brand", "make this look Seasea", "套用 Seasea 品牌", "Seasea consulting deliverable"
-- A Seasea Group business unit needs a Seasea-master-brand artifact (parent-brand cooperation, group-level investor deck, group press)
-- User asks for a Seasea homepage, agent OS landing page, or Intelligence OS visual
+- User asks to design or write a Seasea-institute artifact: internal research deck, FDE engineering deliverable, R&D narration script, GPT Image 2 prompt, recruiting collateral for research/engineering roles, institute case study
+- User asks to "apply Seasea brand", "make this look Seasea", "套用 Seasea 研究院品牌", "Seasea research / FDE deliverable"
+- A Musein (目音) main-brand surface needs to show the Seasea institute affiliation (footer / secondary-slot co-lock only — Seasea is never the hero brand)
+- User asks for an internal agent-OS / Intelligence-OS research visual that lives under the Musein umbrella
 
-If the artifact is for **Musein.ai** use `musein-brand` instead. If for **ModelAPI.co** use `modelapi-brand` instead. Seasea-brand is the **parent / consulting-house master brand**.
+Seasea is **not** a standalone external brand. If the artifact is outward-facing for **Musein.ai** use `musein-brand` instead. If for **ModelAPI.co** use `modelapi-brand` instead. The Musein (目音) master brand owns all public positioning; Seasea is its AI-native & FDE research institute.
 
 ## Positioning
 
@@ -28,11 +30,11 @@ If the artifact is for **Musein.ai** use `musein-brand` instead. If for **ModelA
 
 | Label | When to use |
 | --- | --- |
-| **AI-native growth operating system** | Homepage, master-brand, investor |
-| **The AI-era operating partner for growth** | Sales / RFP / partnership |
-| **Intelligence OS for ambitious operators** | Strategic / boardroom / press |
-| **Recursive AI operating partner** | Technical / category positioning |
-| **Ontology-anchored growth execution platform** | Differentiated competitive framing |
+| **AI-native & FDE research institute** | Institute identity (under Musein), internal / R&D, investor (only within Musein umbrella) |
+| **The forward-deployed engineering partner for AI-native operators** | FDE sales / RFP / partnership (under Musein) |
+| **Intelligence-OS research lab for ambitious operators** | Strategic / boardroom / press (Musein context) |
+| **Recursive AI research & engineering partner** | Technical / category positioning |
+| **Ontology-anchored research execution platform** | Differentiated competitive framing |
 
 ### Forbidden labels & framings
 
@@ -66,7 +68,7 @@ In three words: **Codify. Decide. Compound.**
 - Execution journal / evaluation loop / policy update
 - Recursive learning / compounding moat
 - Decision substrate / source-bound reasoning
-- Engagement / operator / partner (never "user", never "customer" in master-brand copy)
+- Engagement / operator / partner (never "user", never "customer" in Seasea-institute copy)
 
 ### Language swaps
 
@@ -86,7 +88,7 @@ In three words: **Codify. Decide. Compound.**
 
 | Role | Name | Hex | Use |
 | --- | --- | --- | --- |
-| Brand Primary | **Insight Indigo** | `#0B1B3A` | Hero surfaces, master-brand backgrounds, primary text on light |
+| Brand Primary | **Insight Indigo** | `#0B1B3A` | Hero surfaces, institute backgrounds, primary text on light |
 | Brand Surface | **Boardroom White** | `#F7F9FC` | Page canvas, content backgrounds, decision panels |
 | Brand Pure | Pure White | `#FFFFFF` | Reset surface, callouts |
 | **Accent — primary** | **Electric Cobalt** | `#0048FF` | CTAs, active workflow paths, intelligence highlights |
@@ -118,7 +120,7 @@ Read this gradient as a **strategic narrative**: depth of judgment → decision 
 
 | Level | Direction | Use |
 | --- | --- | --- |
-| Display / Editorial | **PP Editorial New** (italic for emphasis), Tiempos Headline, GT Sectra | Hero headlines, master-brand moments, big numbers in decks |
+| Display / Editorial | **PP Editorial New** (italic for emphasis), Tiempos Headline, GT Sectra | Hero headlines, institute moments, big numbers in decks |
 | UI / Body sans | **Geist** (preferred), Söhne, Neue Haas Grotesk | Product UI, sales decks, body copy |
 | Data / Mono | **Geist Mono**, JetBrains Mono, IBM Plex Mono | Workflow node labels, code, data tables, audit metadata |
 
@@ -175,13 +177,13 @@ Read this gradient as a **strategic narrative**: depth of judgment → decision 
 
 ## Terminology Compliance (Seasea Glossary)
 
-All Seasea-branded artifacts — homepage, master-brand deck, investor / partnership / B2G pitch, RFP response, consulting deliverable, press release, sub-brand co-branded material — MUST comply with the **Seasea Workspace Global Terminology Glossary** ([`catalog/glossary.md`](../../../../catalog/glossary.md), v1.0). It is the canonical cross-repo authority on translation, term simplification, and B2G / SOE substitutions for the entire Seasea Group (Seasea master + Musein + ModelAPI + sub-brands).
+All Seasea-institute artifacts — internal research deck, FDE engineering deliverable, R&D / partnership / B2G pitch, RFP response, consulting deliverable, press release, Musein co-branded material — MUST comply with the **Seasea Workspace Global Terminology Glossary** ([`catalog/glossary.md`](../../../../catalog/glossary.md), v1.0). It is the canonical cross-repo authority on translation, term simplification, and B2G / SOE substitutions for the Musein (目音) main brand and its sub-identities (Seasea research institute, ModelAPI, Boids, and other sub-brands).
 
 ### Context-switching rules (binding)
 
 | Surface / Audience | Glossary column to use |
 |---|---|
-| Master-brand site, consulting collateral, investor deck, English / mixed copy | **规范译文** (when bilingual / Chinese) and canonical English term |
+| Musein main-brand site, Seasea-institute collateral, investor deck, English / mixed copy | **规范译文** (when bilingual / Chinese) and canonical English term |
 | Government / SOE / domestic enterprise procurement / SOE-co-issued report | **B2G/国企语境** when present; fallback to 规范译文 |
 | Internal Seasea Group strategy / governance / postmortem doc | English term or **简称** allowed; preserve precision |
 | RFP response, due-diligence pack, board memo (CN-domestic audience) | **规范译文** with English term parenthesized on first mention |
@@ -206,7 +208,7 @@ All Seasea-branded artifacts — homepage, master-brand deck, investor / partner
 | Content Compliance Pre-screening | **内容合规预审** | NRTA 合规预审 | — |
 | ARR / LTV / CAC / PMF | 年度经常性收入 / 客户终身价值 / 客户获取成本 / 产品市场契合 | — | English缩写仅限内部 |
 
-When a Seasea master-brand artifact references a sub-brand (Musein product features, ModelAPI infra metrics, Boids agent terms, etc.), use that sub-brand's term canonically — defer to the same glossary entry; do not paraphrase.
+When a Seasea-institute artifact references the Musein main brand or a sibling sub-identity (ModelAPI infra metrics, Boids agent terms, Musein product features, etc.), use that entity's term canonically — defer to the same glossary entry; do not paraphrase.
 
 **Authoring rule:** Every Chinese Seasea copy pass must reconcile against the glossary's "禁用译法速查表". For new strategic / consulting terms not yet in the glossary, propose an addition via the catalog before publishing client-facing copy.
 
@@ -215,7 +217,7 @@ When a Seasea master-brand artifact references a sub-brand (Musein product featu
 Every Seasea GPT Image 2 prompt must open with this canonical preamble:
 
 ```text
-Create a 16:9 executive strategy slide image, 1920x1080, for Seasea — the AI-native growth operating system positioned as the AI-era equivalent of Accenture and Deloitte. Use a premium consulting visual standard: editorial information hierarchy, generous whitespace, dense but scannable strategic content, crisp vector-like ontology diagrams, refined typography, and zero consumer-app playfulness. Background: Boardroom White / soft off-white. Primary text: Graphite Black on Insight Indigo for hero passages. Accent: bright Electric Cobalt to Lumen Sky gradient (only blue stops, never multi-hue), used only for active decision paths, key emphasis, and intelligence highlights. In the upper-left corner, reserve a blank square equal to 5% of the total image width — keep this area identical to the background, with no border, no placeholder, no icon, no logo, no framing. Do not draw the Seasea logo. Add the exact text "Privileged&Confidential" in small light-gray type at the bottom-right corner.
+Create a 16:9 executive strategy slide image, 1920x1080, for the Seasea Institute — the AI-native & Forward-Deployed Engineering (FDE) research institute inside the Musein (目音) main brand, positioned as the applied-research and forward-deployed engineering layer rather than a standalone external brand. Use a premium research-institute visual standard: editorial information hierarchy, generous whitespace, dense but scannable strategic content, crisp vector-like ontology diagrams, refined typography, and zero consumer-app playfulness. Background: Boardroom White / soft off-white. Primary text: Graphite Black on Insight Indigo for hero passages. Accent: bright Electric Cobalt to Lumen Sky gradient (only blue stops, never multi-hue), used only for active decision paths, key emphasis, and intelligence highlights. In the upper-left corner, reserve a blank square equal to 5% of the total image width — keep this area identical to the background, with no border, no placeholder, no icon, no logo, no framing. Do not draw any brand logo (Seasea or Musein). Add the exact text "Privileged&Confidential" in small light-gray type at the bottom-right corner.
 ```
 
 After the preamble, every prompt must declare:
@@ -238,15 +240,17 @@ Before delivering any Seasea-branded output, verify:
 - [ ] Tabular figures on all numeric tables
 - [ ] All GPT Image 2 prompts include canonical preamble verbatim
 - [ ] Voice register: Sage + Ruler — calm, earned, decision-grade — no hype tone
-- [ ] **Terminology compliance**: Chinese copy reconciled against [`catalog/glossary.md`](../../../../catalog/glossary.md) — no forbidden translations from §禁用译法速查表 (no 灯塔项目 / 三层审查 / AIGC 生产 OS / 做还是买 / IP 圣经); B2G column used when audience is SOE / government / domestic-enterprise; sub-brand cross-references use that sub-brand's glossary entry verbatim
+- [ ] **Terminology compliance**: Chinese copy reconciled against [`catalog/glossary.md`](../../../../catalog/glossary.md) — no forbidden translations from §禁用译法速查表 (no 灯塔项目 / 三层审查 / AIGC 生产 OS / 做还是买 / IP 圣经); B2G column used when audience is SOE / government / domestic-enterprise; Musein main-brand or sibling sub-identity cross-references use that entity's glossary entry verbatim
 
-## Master-brand vs Sub-brand Co-Lock
+## Musein Main-Brand vs Seasea Institute Co-Lock
 
-When a Seasea sub-brand artifact (Musein, ModelAPI, Antifomo, Boids) needs Seasea co-branding:
+Seasea is **not** a standalone external brand. When a **Musein (目音) main-brand** artifact needs to surface the Seasea institute affiliation:
 
-- Seasea wordmark sits in the **footer** or top-right secondary slot — never replaces the sub-brand wordmark in the hero.
-- Seasea blue gradient may **frame** the sub-brand (top edge, footer rule) but does not override the sub-brand's primary palette.
-- Use the line: *"A Seasea Intelligence OS company"* / *"Part of the Seasea Group"* — never "by Seasea" (too modest), never "from the Seasea family" (too soft).
+- The Musein (目音) wordmark owns the hero. The Seasea institute wordmark sits only in the **footer** or top-right secondary slot — never as the lead brand.
+- Seasea's bright-blue gradient may **frame** the Musein artifact (top edge, footer rule) but does not override Musein's Cinema Register palette; the two identities stay visually distinct.
+- Use the line: *"Powered by Seasea — AI-native & FDE Research Institute of Musein"* / *"A Musein (目音) company, with the Seasea Institute"* — never present Seasea as an independent master brand.
+
+When a Seasea-institute artifact (internal research deck, FDE deliverable) references Musein product features or sibling sub-identities, label Musein as the main brand and Seasea as the institute.
 
 ## Companion Skills
 
@@ -254,8 +258,8 @@ When a Seasea sub-brand artifact (Musein, ModelAPI, Antifomo, Boids) needs Sease
 | --- | --- |
 | `high-end-visual-design` | Underlying anti-default UI rules — Seasea adopts them as baseline |
 | `consulting-analysis` | Generate the strategic / market substrate that feeds Seasea decks |
-| `musein-brand` | Switch to when the artifact is Musein.ai, not Seasea master-brand |
-| `boids-brand` | Switch to when the artifact is Boids (Nevamind L2-1 orchestration), not Seasea master-brand |
+| `musein-brand` | Switch to when the artifact is outward-facing Musein.ai (main brand), not an internal Seasea-institute artifact |
+| `boids-brand` | Switch to when the artifact is Boids (Nevamind L2-1 orchestration), not a Seasea-institute artifact |
 | `modelapi-brand` | Switch to when the artifact is ModelAPI.co developer surface |
 | `seasea-deck` (project-level) | Render a markdown deck → 16:9 PNG slides |
 | `hyperframes` / `heygen` | Convert narration + visuals → final video |
@@ -263,9 +267,9 @@ When a Seasea sub-brand artifact (Musein, ModelAPI, Antifomo, Boids) needs Sease
 ## Output Conventions
 
 - Default language: English (canonical). Use Chinese only when audience is CN-dominant SOE / domestic enterprise — preserve register exactly (no casual translations).
-- Footer citation on client deliverables: `Source: Seasea Intelligence OS — [artifact] — [YYYY-MM-DD]`.
+- Footer citation on Seasea-institute deliverables: `Source: Seasea Institute (Musein) — [artifact] — [YYYY-MM-DD]`.
 - All image-prompt blocks end with the `Privileged&Confidential` watermark clause.
-- File path conventions: master-brand decks under `seasea-gtm-os/workspaces/seasea/decks/`; rendered images under `<workspace>/outputs/<artifact>/`.
+- File path conventions: Seasea-institute decks under `seasea-gtm-os/workspaces/seasea/decks/`; rendered images under `<workspace>/outputs/<artifact>/`.
 
 ---
 
