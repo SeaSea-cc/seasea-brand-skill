@@ -15,6 +15,22 @@ Seasea does **not** operate as a standalone outward-facing brand. Every artifact
 
 The brand must communicate **earned intelligence, decision-grade rigor, and quiet authority** — never hype, never rainbow-AI playfulness, never consumer warmth.
 
+**Ratified layer personality (2026-10-13)** — canonical source: `seasea-wiki/concepts/brand/group-brand-personality-seasea-modelapi.md` v1.0 (Roland Berger × Aaker; theory-derived, not user-research validated).
+
+| Slot | Value |
+|---|---|
+| 价值分区 | 现代理性价值区（判断 / 先见端） |
+| 主人格 | **胜任 Competence** — 严谨与现场验证，是它作为参谋的唯一资格来源 |
+| 辅一 | **刺激·思辨面 Excitement** — 概念创造与前沿探索；禁 hype、潮流玩闹、夸张未来叙事 |
+| 辅二 | **真诚 Sincerity（敢说「不做」）** — 证据不足时劝阻客户，坦承哪些结论待验证、哪些需求不值得产品化 |
+| 品牌角色 | **参谋 + 架构师**（Strategist + Architect）—— 判断该进哪个现场、解决什么问题，再把判断落成部署蓝图 |
+| 记忆句 | **看得清方向，也说得出代价。** |
+| 精致 | 不作本层差异点（视觉随 Musein）；粗犷完全排除 |
+
+Archetype mapping: **The Sage** = 参谋的先见与判断；**The Ruler** = 架构师的蓝图与治理权威。二者服务于上表的人格结构，不另立第三人格。
+
+**Public-visual rule (binding).** The Seasea bright cobalt-to-sky blue consulting register is **internal institute use only**. Whenever a Seasea artifact appears alongside or inside the Musein main brand in any public setting (investor material, enterprise RFP, event booth, press), it must be rendered in **Musein Dark-Cinematic** — Deep Black `#0A0A0A` surface · Off-White `#F5F4EF` text · Cinema Coral `#FF6B6B` sole accent — with Musein as hero and Seasea as footer / secondary. Never the blue system, never as an independent master brand.
+
 ## When to Use
 
 - User asks to design or write a Seasea-institute artifact: internal research deck, FDE engineering deliverable, R&D narration script, GPT Image 2 prompt, recruiting collateral for research/engineering roles, institute case study
@@ -22,7 +38,7 @@ The brand must communicate **earned intelligence, decision-grade rigor, and quie
 - A Musein (目音) main-brand surface needs to show the Seasea institute affiliation (footer / secondary-slot co-lock only — Seasea is never the hero brand)
 - User asks for an internal agent-OS / Intelligence-OS research visual that lives under the Musein umbrella
 
-Seasea is **not** a standalone external brand. If the artifact is outward-facing for **Musein.ai** use `musein-brand` instead. If for **ModelAPI.co** use `modelapi-brand` instead. The Musein (目音) master brand owns all public positioning; Seasea is its AI-native & FDE research institute.
+Seasea is **not** a standalone external brand. If the artifact is outward-facing for **Musein.ai** use `musein-brand` instead. If for **ModelAPI.co** use `modelapi-brand-skill` instead. The Musein (目音) master brand owns all public positioning; Seasea is its AI-native & FDE research institute.
 
 ## Positioning
 
@@ -260,7 +276,7 @@ When a Seasea-institute artifact (internal research deck, FDE deliverable) refer
 | `consulting-analysis` | Generate the strategic / market substrate that feeds Seasea decks |
 | `musein-brand` | Switch to when the artifact is outward-facing Musein.ai (main brand), not an internal Seasea-institute artifact |
 | `boids-brand` | Switch to when the artifact is Boids (Nevamind L2-1 orchestration), not a Seasea-institute artifact |
-| `modelapi-brand` | Switch to when the artifact is ModelAPI.co developer surface |
+| `modelapi-brand-skill` | Switch to when the artifact is ModelAPI.co developer surface |
 | `seasea-deck` (project-level) | Render a markdown deck → 16:9 PNG slides |
 | `hyperframes` / `heygen` | Convert narration + visuals → final video |
 
